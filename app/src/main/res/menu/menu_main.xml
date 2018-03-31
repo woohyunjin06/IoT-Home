@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.line.myapplication.MainActivity">
+    <item
+        android:id="@+id/action_reconnect"
+        android:orderInCategory="100"
+        android:title="재연결"
+        app:showAsAction="never" />
+</menu>
